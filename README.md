@@ -10,4 +10,4 @@
 ## VerifyServer:
   When a user registers, the registration information is sent to the GateServer. The GateServer then invokes the VerifyServer to verify the rationality of the registration and sends a verification code to the client. The client can then use this verification code to register with the GateServer. 
   
-  Both the StatusServer, ServerA, and ServerB can directly access the Redis and Mysql services.
+  Both the StatusServer, ChatServerA, and ChatServerB can directly access the Redis and Mysql services.
