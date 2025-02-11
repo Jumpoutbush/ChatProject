@@ -1,5 +1,5 @@
 # ChatProject
-album of chartoom projects \n
+  album of chartoom projects. \n
 ## GateServer:
   The GateServer serves as a gateway service, primarily handling connection and registration requests from clients. Since the servers are distributed, after receiving a user's connection request, the GateServer will query the status service to select the address of a ChatServer with a relatively light load and provide it to the client.\n
 ## ChatServer:
