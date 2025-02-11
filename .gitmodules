@@ -13,3 +13,6 @@
 [submodule "StatusServer"]
 	path = StatusServer
 	url = https://github.com/Jumpoutbush/StatusServer.git
+[submodule "VerifyServer"]
+	path = VerifyServer
+	url = https://github.com/Jumpoutbush/VerifyServer.git
